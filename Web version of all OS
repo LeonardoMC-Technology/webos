@@ -1,0 +1,16 @@
+<div class="card">
+    <div class="card-border-top"></div>
+    <div class="img">
+      <img src="[image link or pr image in `/images`]">
+    </div>
+    <span>[Name]</span>
+    <button onclick="goto(`[Link]`)"> Run </button>
+</div>
+<div class="card">
+    <div class="card-border-top"></div>
+    <div class="img">
+      <img src="images/os.png">
+    </div>
+    <span>AvdanOS</span>
+    <button onclick="goto(`https://dynamicos.netlify.app`)"> Run </button>
+</div>
